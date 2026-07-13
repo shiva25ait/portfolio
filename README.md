@@ -1,9 +1,8 @@
-# Shivakumar s — Technical Writer  
-I help software teams write documentation their users actually read.
+# SHIVAKUMAR S — Senior Technical Writer  
 
-**What I write:** API references, developer guides, SDK docs, release notes, onboarding tutorials
+**What I write:** API references, DITA sturatured guides, Manuals, release notes, onboarding tutorials
 
-  **Tools:** VS Code, GitHub, Markdown, OpenAPI/Swagger, Confluence, Notion
+
 
 **Samples:** 
 
@@ -13,4 +12,4 @@ I help software teams write documentation their users actually read.
 
 **Contact:** kshiva839@email.com 
 
-[LinkedIn](https://linkedin.com/in/yourname)
+[LinkedIn](https://linkedin.com/in/shivakumar s)
