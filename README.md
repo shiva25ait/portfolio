@@ -6,7 +6,12 @@
 
 **Samples:** 
 
--
+- [Resume](./Resume/CV-resume.md)
+
+- [API Reference](./api-docs/sample-api.md) 
+
+- [API Reference](./api-docs/sample-api.md) 
+
 - [Getting Started Guide](./product-docs/getting-started.md) 
 
 **Contact:** kshiva839@email.com 
