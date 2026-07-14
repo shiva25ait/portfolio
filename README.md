@@ -10,10 +10,8 @@
 
 - [API Reference](./api-docs/sample-api.md) 
 
-- [API Reference](./api-docs/sample-api.md) 
-
 - [Getting Started Guide](./product-docs/getting-started.md) 
 
 **Contact:** kshiva839@email.com 
 
-[LinkedIn](www.linkedin.com/in/shivakumar-s-a55104ab)
+[LinkedIn](https://www.linkedin.com/in/shivakumar-s-a55104ab)
