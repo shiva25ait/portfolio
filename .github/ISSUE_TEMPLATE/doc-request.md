@@ -1,6 +1,6 @@
 name: Documentation request 
-about: Request new or updated documentation 
-labels: documentation --- 
+about: Request new or updated documentation
+labels: documentation ---
  
 ## What needs to be documented? 
  

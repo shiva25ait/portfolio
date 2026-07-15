@@ -37,7 +37,7 @@ keyrefs, and variables.
 clean validation passes, by using Arbortext XML Editor to author, validate, and enforce DITA structure,
 profiling, and conditional text.
 
-Authored documentation for AI tools, including installation guides, user manuals, API documentation, and
+- Authored documentation for AI tools, including installation guides, user manuals, API documentation, and
 Release notes.
 
 - Increased publishing reliability and traceability across product releases, as measured by consistent version
