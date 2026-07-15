@@ -20,9 +20,9 @@ documentation lifecycles within Windchill CMS., partnering with cross-functional
 
   **Quality & Process** ACE Quality System, Root Cause Analysis (RCA), Value Stream Mapping (VSM), Peer Review, Process Mapping 
 
-  ## PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
-  ### Senior Technical Writer | Schneider Electric 
+  ### Senior Technical Writer | Schneider Electric
 
   Jun 2025 – Apr 2026  
 
