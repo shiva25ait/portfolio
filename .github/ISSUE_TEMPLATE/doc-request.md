@@ -1,21 +1,21 @@
 name: Documentation request 
-about: Request new or updated documentation
-labels: documentation ---
+about: Request new or updated documentation 
+labels: documentation --- 
  
-## What needs to be documented?
+## What needs to be documented? 
  
-<!-- Describe the feature, API, or process that needs docs --
-
-## Who is the audience?
+<!-- Describe the feature, API, or process that needs docs --> 
  
-[ ] End users
-[ ] Developers / API consumers
-[ ] Internal team
+## Who is the audience? 
  
-## What is the deadline or release date?
+[ ] End users 
+[ ] Developers / API consumers 
+[ ] Internal team 
  
-## Links to relevant code or PRs
+## What is the deadline or release date? 
  
-## Existing documentation to update (if any)
+## Links to relevant code or PRs 
+ 
+## Existing documentation to update (if any) 
  
 ## Additional context
