@@ -9,12 +9,12 @@ documentation lifecycles within Windchill CMS., partnering with cross-functional
 
 ## SKILLS
 
-
 **Structured Authoring & Standards:** DITA XML, S1000D, ATA 100, iSPEC2200, AECMA Simplified 
 
 **Authoring & Publishing Tools:** Arbortext XML Editor,Oxygen XML Author, MadCap Flare, Adobe FrameMaker, adobe RoboHelp,Markdown,VS Code, Technical English (STE)
 
-  **Content Management:** GitHub, Windchill CMS ,Siemens PLM Teamcenter, IBM Rational DOORS Next Generation (DNG) , Confluence,
+  **Content Management:** Git,
+  GitHub, Windchill CMS ,Siemens PLM Teamcenter, IBM Rational DOORS Next Generation (DNG) , Confluence,
 
   **Engineering & CAD Software** AutoCAD, CATIA V5, Unigraphics NX, SAP (ZTR1, VA03, XD03, WTY, ZWTYSE, IW53, ZP30) 
 
@@ -38,6 +38,9 @@ keyrefs, and variables.
 clean validation passes, by using Arbortext XML Editor to author, validate, and enforce DITA structure, 
 profiling, and conditional text.
 
+Authored documentation for AI tools, including installation guides, user manuals, API documentation, and 
+Release notes.
+
 - Increased publishing reliability and traceability across product releases, as measured by consistent version 
 baselines, by managing full documentation lifecycles — versioning, baselines, and publishing workflows —
 within Windchill CMS.
@@ -50,8 +53,11 @@ team members
 
 Oct 2020 – Jun 2024
 
-Developed online help and release notes for multiple products using MadCap Flare, supporting EPS 
+- Developed online help and release notes for multiple products using MadCap Flare, supporting EPS 
 products following Microsoft Manual of Style.
+
+- Familiar with GitHub-based development workflows, including version control, code collaboration, and pull 
+request management.
 
 -  Reduced customer support queries by 20%, as measured by post-release ticket volume, by analyzing 
 complex technical input from SMEs and translating it into clearer, user-focused configuration manuals and 
