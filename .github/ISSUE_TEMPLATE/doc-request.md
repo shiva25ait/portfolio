@@ -1,4 +1,3 @@
-
 name: Documentation request 
 about: Request new or updated documentation
 labels: documentation ---
